@@ -7,7 +7,7 @@ import {shallowWithIntl} from 'tests/helpers/intl-test-helper';
 import {testComponentForLineBreak} from 'tests/helpers/line_break_helpers';
 import Constants from 'utils/constants';
 
-import CreateComment from 'components/create_comment/create_comment.jsx';
+import CreateComment from 'components/create_comment/create_comment';
 import FileUpload from 'components/file_upload';
 import FilePreview from 'components/file_preview';
 
